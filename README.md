@@ -1,4 +1,4 @@
-link for the presentation - https://github.com/Ohma07/coursework2.git
+link for the presentation - https://drive.google.com/drive/folders/11Ri7azvdynjZhjUs6vcMjLf2gONvLYxK?hl=ru
 Project name - Employee Attendance Tracker
 Description - Tracks employee attendance, allowing recording of clock-in and clock-out times, absences, and tardiness.
 Student - KOICHUBAEV BEIKUT COMFCI-25
